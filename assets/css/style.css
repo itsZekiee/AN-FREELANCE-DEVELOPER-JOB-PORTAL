@@ -110,7 +110,7 @@
   /*=============== THEME ===============*/
   /*========== Variables Dark theme ==========*/
   body.dark-theme{
-    --first-color-dark: hsla(195, 89%, 7%, 1);
+    --first-color-dark:hsl(194, 61%, 20%);
     --title-color: hsl(152, 4%, 95%);
     --text-color: hsl(152, 4%, 75%);
     --body-color: hsla(195, 89%, 7%, 1);
