@@ -116,7 +116,7 @@
     --body-color: hsl(152, 8%, 12%);
     --container-color: hsla(195, 89%, 7%, 1);
   }
-  
+
   /*========== Button Dark/Light ==========*/
   .change-theme{
     color: var(--title-color);
