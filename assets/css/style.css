@@ -114,7 +114,7 @@
     --title-color: hsl(152, 4%, 95%);
     --text-color: hsl(152, 4%, 75%);
     --body-color: hsl(152, 8%, 12%);
-    --container-color: hsl(152, 8%, 16%);
+    --container-color: hsla(195, 89%, 7%, 1);
   }
   
   /*========== Button Dark/Light ==========*/
